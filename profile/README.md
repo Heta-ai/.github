@@ -1,7 +1,5 @@
 # Welcome to the Heta GitHub Organization
 
-![Heta Logo](https://heta.eu/images/logo.svg)
-
 Thinking ahead in **sustainable solutions for tomorrow's network infrastructures**.
 
 ---
