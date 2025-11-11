@@ -43,4 +43,4 @@ A key component of our strategy is **HET-AI®**, our proprietary generative AI p
 
 * **Official Website:** [heta.eu](https://heta.eu)
 * **Email:** [info@heta.eu](mailto:info@heta.eu)
-* **LinkedIn:** [Heta on LinkedIn](https://www.linkedin.com/company/heta-eu/)
+* **LinkedIn:** [Heta on LinkedIn](https://www.linkedin.com/company/bheta/)
